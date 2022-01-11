@@ -5,7 +5,7 @@ Set up webpack
 
 > Using HTML, CSS, JavaScriptsm, Npm and Webpack
 
-![screenshot](./assets/app_screenshot_1.png)
+![screenshot](./app_screenshot_1.png)
 
 ## Built With
 
